@@ -1,0 +1,8 @@
+# Verifica a versão do git atualmente em uso/instalada
+git --version
+# Verifica se existem arquivos não versionados
+git status
+# Comando (linux) para limpar a tela
+clear
+# Comando para incluir o arquivo alterado no versionamento git.
+git add .   ou git add comandos-git.txt
